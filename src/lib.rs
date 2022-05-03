@@ -6,7 +6,6 @@
 
 extern crate alloc;
 
-pub use evm_core::*;
 pub use evm_gasometer as gasometer;
 pub use evm_runtime::*;
 
